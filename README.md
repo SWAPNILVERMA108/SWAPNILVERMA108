@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">👋 Hi, I'm Swapnil Verma</h1>
-<h3 align="center">Software Developer | Python • C++ • Java • Frontend</h3>
+<h3 align="center">Python • C++ • Java • Frontend</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&width=500&lines=Python+Developer;C%2B%2B+%7C+Java+Programmer;Frontend+Developer;Open+Source+Contributor;Always+Learning+🚀" />
