@@ -65,7 +65,7 @@
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="(https://www.linkedin.com/in/swapnil-verma-165aa8319)">
+  <a href="https://www.linkedin.com/in/swapnil-verma-165aa8319">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
   </a>
   <a href="https://github.com/SWAPNILVERMA108">
