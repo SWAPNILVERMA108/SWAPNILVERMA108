@@ -1,75 +1,82 @@
-<h1 align="center">Hi 👋, I'm Swapnil Verma</h1>
-<h3 align="center">Software Developer | Python | C++ | Java | Frontend Developer</h3>
+<!-- Header -->
+<h1 align="center">👋 Hi, I'm Swapnil Verma</h1>
+<h3 align="center">Software Developer | Python • C++ • Java • Frontend</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SWAPNILVERMA108&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&width=500&lines=Python+Developer;C%2B%2B+%7C+Java+Programmer;Frontend+Developer;Open+Source+Contributor;Always+Learning+🚀" />
 </p>
+
 
 ---
 
 ## 🚀 About Me
 
-- 💻 Passionate **Software Developer**
-- 🐍 Strong in **Python** (automation, ML basics, backend concepts)
-- ⚙️ Experienced with **C++ & Java** for problem solving and core logic
-- 🌐 **Frontend Developer** (HTML, CSS, JavaScript, React)
-- 🤝 **Open Source Contributor** & continuous learner
-- 📈 Focused on writing **clean, structured, and scalable code**
+🎯 Focused on building **clean, scalable, and impactful software**  
+🐍 Python for automation, ML basics & backend logic  
+⚙️ C++ & Java for problem-solving and core systems  
+🌐 Frontend developer crafting clean UI  
+🤝 Open source contributor & fast learner  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
-- Python
-- C++
-- Java
-- JavaScript
-
-### Frontend
-- HTML5
-- CSS3
-- React
-
-### Tools & Platforms
-- Git & GitHub
-- Linux
-- VS Code
-
----
-
-## 📌 What You'll Find Here
-
-- 🔹 Python projects & automation scripts  
-- 🔹 Machine learning & data-based projects  
-- 🔹 C++ DSA and problem-solving solutions  
-- 🔹 Java core & backend-style projects  
-- 🔹 Frontend UI applications  
-- 🔹 Open source contributions  
-
-⬇️ **Pinned repositories below showcase my best work**
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SWAPNILVERMA108&show_icons=true&theme=tokyonight" />
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SWAPNILVERMA108&layout=compact&theme=tokyonight" />
+### 🌐 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react" />
+</p>
+
+### ⚙️ Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
 </p>
 
 ---
+
+## 📌 Featured Work
+
+✨ Well-structured, real-world projects including:
+- 🔹 Python automation & ML projects
+- 🔹 Optimized C++ DSA solutions
+- 🔹 Java core & backend-style projects
+- 🔹 Frontend UI applications
+- 🔹 Open source contributions
+
+⬇️ **Check pinned repositories below**
+
+---
+
+## 📊 GitHub Analytics
+
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SWAPNILVERMA108&theme=tokyonight" />
+</p>
+
+---
+
+
 
 ## 🤝 Connect With Me
 
-- 💼 LinkedIn: *(https://www.linkedin.com/in/swapnil-verma-165aa8319)*
-- 🌐 Portfolio: *(add link here)*
-- 📧 Email: *(swapnilverma109@gmail.com)*
+<p align="center">
+  <a href="[https://linkedin.com/in/your-link](https://www.linkedin.com/in/swapnil-verma-165aa8319)">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
+  </a>
+  <a href="https://github.com/SWAPNILVERMA108">
+    <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github" />
+  </a>
+</p>
 
 ---
 
-⭐ *Always learning. Always building.*
+<p align="center">
+  ⭐ <b>Always learning. Always building.</b> ⭐
+</p>
+
 
